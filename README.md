@@ -6,11 +6,11 @@ Projekt zaliczeniowy realizujący aplikację w dwóch technologiach: desktopowej
 
 ### Wersja Webowa (Etap 3 i 4)
 Strona internetowa z responsywnym interfejsem Bootstrap, obsługą modali i dynamiczną tabelą JS.
-![Wygląd strony](web1.png)
+![Wygląd strony](web 1.png)
 
 ### Wersja Desktopowa (Etap 1 i 2)
 Aplikacja okienkowa z bazą lokalną, systemem raportowania RDLC i eksportem do PDF.
-![Wygląd aplikacji](Dektop 4.png)
+![Wygląd aplikacji](Desktop 1.png)
 
 ---
 
