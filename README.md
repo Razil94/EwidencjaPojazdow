@@ -10,7 +10,7 @@ Strona internetowa z responsywnym interfejsem Bootstrap, obsługą modali i dyna
 
 ### Wersja Desktopowa (Etap 1 i 2)
 Aplikacja okienkowa z bazą lokalną, systemem raportowania RDLC i eksportem do PDF.
-![Wygląd aplikacji](Desktop1.png)
+![Wygląd aplikacji](Dektop 4.png)
 
 ---
 
