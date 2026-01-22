@@ -1,8 +1,8 @@
-# 🚗 Ewidencja Pojazdów
+# 🚗 Ewidencja pojazdów
 
 Projekt zaliczeniowy realizujący aplikację w dwóch technologiach: desktopowej (Windows Forms) oraz webowej (HTML/Bootstrap/JS).
 
-## 📸 Podgląd Aplikacji
+## 📸 Podgląd aplikacji
 
 ### Wersja Webowa (Etap 3 i 4)
 Strona internetowa z responsywnym interfejsem Bootstrap, obsługą modali i dynamiczną tabelą JS.
@@ -11,7 +11,7 @@ Strona internetowa z responsywnym interfejsem Bootstrap, obsługą modali i dyna
 
 
 
-### Wersja Desktopowa (Etap 1 i 2)
+### Wersja desktopowa (Etap 1 i 2)
 Aplikacja okienkowa z bazą lokalną, systemem raportowania RDLC i eksportem do PDF.
 <img width="831" height="660" alt="Desktop 1" src="https://github.com/user-attachments/assets/176ef19b-016f-463f-b249-c20591c4c766" />
 <img width="893" height="509" alt="Desktop 2" src="https://github.com/user-attachments/assets/62d1798b-92ac-4f7d-ae82-68c6b7d729dd" />
@@ -24,19 +24,19 @@ Aplikacja okienkowa z bazą lokalną, systemem raportowania RDLC i eksportem do 
 
 ---
 
-## 📝 Opis Projektu
+## 📝 Opis projektu
 
 Projekt został zrealizowany w czterech etapach, pokrywając pełen zakres wymagań: od formularzy okienkowych po interaktywną stronę www.
 
 ### ✅ Zakres funkcjonalności:
 
-#### 🖥️ Część Desktopowa (.NET WinForms)
+#### 🖥️ Część desktopowa (.NET WinForms)
 * **Formularz ewidencji:** Dodawanie pojazdów (Nr rejestracyjny, Marka, Model, Rok, Data przeglądu).
 * **Raportowanie:** Generowanie raportu "Pojazdy z przeglądem w bieżącym miesiącu" przy użyciu **ReportViewer**.
 * **Eksport danych:** Możliwość zapisu wygenerowanego raportu bezpośrednio do pliku **PDF**.
 * **Logika biznesowa:** Filtrowanie danych przy użyciu LINQ.
 
-#### 🌐 Część Webowa (HTML5 + Bootstrap 5)
+#### 🌐 Część webowa (HTML5 + Bootstrap 5)
 * **Nowoczesny UI:** Responsywna tabela i formularze stylowane biblioteką **Bootstrap 5**.
 * **CRUD Frontend:** Dynamiczne dodawanie i usuwanie wierszy z tabeli przy użyciu **JavaScript**.
 * **Walidacja:** Zabezpieczenie przed wprowadzaniem błędnych danych (np. rok spoza zakresu, puste pola).
@@ -44,7 +44,7 @@ Projekt został zrealizowany w czterech etapach, pokrywając pełen zakres wymag
 
 ---
 
-## 🛠️ Użyte Technologie
+## 🛠️ Użyte technologie
 
 * **Języki:** C#, JavaScript, HTML5, CSS3
 * **Frameworki/Biblioteki:** .NET Framework (WinForms), Bootstrap 5
