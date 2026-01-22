@@ -1,16 +1,16 @@
 # 🚗 Ewidencja Pojazdów
 
-Kompleksowy projekt zaliczeniowy realizujący aplikację w dwóch technologiach: desktopowej (Windows Forms) oraz webowej (HTML/Bootstrap/JS).
+Projekt zaliczeniowy realizujący aplikację w dwóch technologiach: desktopowej (Windows Forms) oraz webowej (HTML/Bootstrap/JS).
 
 ## 📸 Podgląd Aplikacji
 
 ### Wersja Webowa (Etap 3 i 4)
 Strona internetowa z responsywnym interfejsem Bootstrap, obsługą modali i dynamiczną tabelą JS.
-![Wygląd strony](web 1.png)
+![Wygląd strony](web1.png)
 
 ### Wersja Desktopowa (Etap 1 i 2)
 Aplikacja okienkowa z bazą lokalną, systemem raportowania RDLC i eksportem do PDF.
-![Wygląd aplikacji](Desktop 1.png)
+![Wygląd aplikacji](Desktop1.png)
 
 ---
 
@@ -56,4 +56,4 @@ Projekt został zrealizowany w czterech etapach, pokrywając pełen zakres wymag
 
 ---
 
-*Projekt wykonany w ramach zaliczenia przedmiotu: Projektowanie interfejsu użytkownika / Aplikacje internetowe.*
+*Projekt wykonany w ramach zaliczenia przedmiotu: Projektowanie interfejsów użytkownika .*
