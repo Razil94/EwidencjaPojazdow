@@ -6,7 +6,9 @@ Projekt zaliczeniowy realizujący aplikację w dwóch technologiach: desktopowej
 
 ### Wersja Webowa (Etap 3 i 4)
 Strona internetowa z responsywnym interfejsem Bootstrap, obsługą modali i dynamiczną tabelą JS.
-![Wygląd strony]<img width="1846" height="727" alt="web 1" src="https://github.com/user-attachments/assets/a6ba1148-71fd-442a-9a64-dfff84ca7c4e" />
+<img width="1846" height="727" alt="web 1" src="https://github.com/user-attachments/assets/a6ba1148-71fd-442a-9a64-dfff84ca7c4e" />
+<img width="1829" height="784" alt="web 2" src="https://github.com/user-attachments/assets/d6fe0d92-0747-4905-8fc0-3d1f9d8e67e4" />
+
 
 
 ### Wersja Desktopowa (Etap 1 i 2)
