@@ -13,7 +13,14 @@ Strona internetowa z responsywnym interfejsem Bootstrap, obsługą modali i dyna
 
 ### Wersja Desktopowa (Etap 1 i 2)
 Aplikacja okienkowa z bazą lokalną, systemem raportowania RDLC i eksportem do PDF.
-![Wygląd aplikacji](Desktop 1.png)
+<img width="831" height="660" alt="Desktop 1" src="https://github.com/user-attachments/assets/176ef19b-016f-463f-b249-c20591c4c766" />
+<img width="893" height="509" alt="Desktop 2" src="https://github.com/user-attachments/assets/62d1798b-92ac-4f7d-ae82-68c6b7d729dd" />
+<img width="1912" height="580" alt="Desktop 3" src="https://github.com/user-attachments/assets/de09fa06-9d60-4518-8243-18eb12dd7dba" />
+<img width="774" height="72" alt="Dektop 4" src="https://github.com/user-attachments/assets/0f24195e-a450-46fb-98c1-61db14e522e8" />
+
+
+
+
 
 ---
 
